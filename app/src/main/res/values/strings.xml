@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UofS_Important_Websites</string>
+    <string name="grid_desir">UofS_Useful_Links</string>
+    <string-array name="dates">
+        <item>Registration Date</item>
+        <item>Tuition payment due date</item>
+        <item>Academic Calendar</item>
+    </string-array>
+</resources>
